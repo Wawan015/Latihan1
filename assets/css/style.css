@@ -1,0 +1,12 @@
+.container {
+    background-color: rgb(134, 134, 134);
+    padding: 15px;
+    width: 100%;
+}
+
+.sidebar {
+    background-color: rgb(134, 134, 134);
+    float: left;
+    width: 100%;
+    color: white;
+}
